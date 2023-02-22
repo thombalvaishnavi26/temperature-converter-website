@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "mulish",sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f8e7af;
+    display: grid;
+    place-content: center;
+}
+
+form{
+    background-color: #fab1a0;
+    padding: 80px;
+}
